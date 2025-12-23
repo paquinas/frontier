@@ -1,1 +1,6 @@
-.venv
+# Compiled Game:
+game.exe
+
+# Libraries
+/lib
+*.a
